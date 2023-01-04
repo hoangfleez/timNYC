@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  },
+  "name": "kt_md2",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
